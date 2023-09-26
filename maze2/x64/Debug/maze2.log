@@ -1,0 +1,3 @@
+﻿  maze2.cpp
+D:\Проекты\maze2\Func.h(29,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  maze2.vcxproj -> D:\Проекты\maze2\x64\Debug\maze2.exe
